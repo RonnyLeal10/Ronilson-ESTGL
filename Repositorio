@@ -1,0 +1,13 @@
+#python  
+print("Ronilson")
+x=int(input("Numero 1: "))
+y=int(input("Numero 2: "))
+z=int(input("Numero 3: "))
+
+#rçlfjgrjbnjnf
+c=x
+If x>y:
+    c=y 
+if y>z:
+    c=z
+print("O numero maior é : ", c)

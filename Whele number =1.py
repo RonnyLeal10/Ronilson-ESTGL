@@ -1,0 +1,1 @@
+Whele number !=0:
