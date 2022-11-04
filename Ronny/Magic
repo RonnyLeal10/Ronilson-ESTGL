@@ -1,0 +1,20 @@
+#O número mágico
+Número_secreto = 777
+
+print(
+"""
++================================+
+| Welcome to my game, muggle!    |
+| Enter an integer number        |
+| and guess what number I've     |
+| picked for you.                |
+| So, what is the secret number? |
++================================+
+""")
+guess=int(input("Diz o número : "))
+
+while(guess != Número_secreto ):
+    print("Está mal . Tente outra vezzzz : ")
+    guess=int(input("Bora laaaa: "))
+    pass #todo"
+print("Muito bom, estás livre agora")
