@@ -1,0 +1,4 @@
+#nor3frjvfnvjvjvjvvre
+print("Big Man")
+x=input("Diz o seu nome: ")
+print("O nome do Big Man é" , + x )
